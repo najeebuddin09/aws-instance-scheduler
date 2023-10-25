@@ -35,7 +35,7 @@ Resources:
       Periods:
         - Description: Opening hours on weekdays
           BeginTime: '08:00'
-          EndTime: '18:00'
+          EndTime: '12:00'
           WeekDays: Mon-Fri
         - Description: Opening hours in weekend
           BeginTime: '09:00'
